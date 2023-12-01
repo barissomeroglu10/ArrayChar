@@ -31,7 +31,7 @@ int main()
 
 	cout << "\n";
 
-	c2[7] = '\0'; // c2 dizisini tek seferde ekrana yazacagimiz için son index'e dizi sonu eleman? atamam?z gerekir.
+	c2[7] = '\0'; // c2 dizisini tek seferde ekrana yazacagimiz iÃ§in son index'e dizi sonu elemani atamamiz gerekir.
 	 // char dizileri tek seferde ekrana yazilacagi zaman veya tek seferde islem yapilacagi zaman son index'e '\0' atanmalidir. 
 
 	cout << c2;
